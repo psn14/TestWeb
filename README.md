@@ -1,5 +1,3 @@
-<!doctype html>
-<html>
 <head>
   <title>Main</title>
   <meta charset="utf-8">
